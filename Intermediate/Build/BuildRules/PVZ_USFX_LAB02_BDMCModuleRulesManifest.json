@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"E:\\Unreal Engine\\Proyectos Unreal\\PVZ_USFX_LAB02_BDMC\\Source\\PVZ_USFX_LAB02_BDMC\\PVZ_USFX_LAB02_BDMC.Build.cs",
+		"E:\\Unreal Engine\\Proyectos Unreal\\PVZ_USFX_LAB02_BDMC\\Source\\PVZ_USFX_LAB02_BDMC.Target.cs",
+		"E:\\Unreal Engine\\Proyectos Unreal\\PVZ_USFX_LAB02_BDMC\\Source\\PVZ_USFX_LAB02_BDMCEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

@@ -1,0 +1,7 @@
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02_BDMC\Definitions.PVZ_USFX_LAB02_BDMC.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Spawns.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Spawns.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Zombie.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Zombie.generated.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC\Plant.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Plant.generated.h

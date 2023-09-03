@@ -1,0 +1,5 @@
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Development\PVZ_USFX_LAB02_BDMC\Definitions.PVZ_USFX_LAB02_BDMC.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+E:\Unreal Engine\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Source\PVZ_USFX_LAB02_BDMC/Zombie.h
+E:\Unreal Engine\Proyectos Unreal\PVZ_USFX_LAB02_BDMC\Intermediate\Build\Win64\UE4Editor\Inc\PVZ_USFX_LAB02_BDMC\Zombie.generated.h

@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "PVZ_USFX_LAB02_BDMC",
+			"Path": "E:\\Unreal Engine\\Proyectos Unreal\\PVZ_USFX_LAB02_BDMC\\Source\\PVZ_USFX_LAB02_BDMC.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "PVZ_USFX_LAB02_BDMCEditor",
+			"Path": "E:\\Unreal Engine\\Proyectos Unreal\\PVZ_USFX_LAB02_BDMC\\Source\\PVZ_USFX_LAB02_BDMCEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

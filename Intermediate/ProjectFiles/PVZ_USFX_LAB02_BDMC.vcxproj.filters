@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\PVZ_USFX_LAB02_BDMC.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{FFDB7BA8-05A2-4714-A29A-DB132FF2CE33}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\PVZ_USFX_LAB02_BDMC.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\PVZ_USFX_LAB02_BDMCEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{8EADD179-F50F-425B-9FC7-25E4F320FD28}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\PVZ_USFX_LAB02_BDMC">
+      <UniqueIdentifier>{61CE9DB0-5292-4CCB-8E5E-1273789CDAEE}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\Plant.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\Plant.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMC.Build.cs">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMC.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMC.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCGameMode.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCGameMode.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCPawn.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCPawn.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCProjectile.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\PVZ_USFX_LAB02_BDMCProjectile.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\Spawns.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\Spawns.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\PVZ_USFX_LAB02_BDMC\Zombie.cpp">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\PVZ_USFX_LAB02_BDMC\Zombie.h">
+      <Filter>Source\PVZ_USFX_LAB02_BDMC</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
