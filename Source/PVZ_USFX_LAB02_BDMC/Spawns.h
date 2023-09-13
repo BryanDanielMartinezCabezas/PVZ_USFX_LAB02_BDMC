@@ -6,6 +6,8 @@
 #include "GameFramework/Actor.h"
 #include "Spawns.generated.h"
 
+class APlant;
+
 UCLASS()
 class PVZ_USFX_LAB02_BDMC_API ASpawns : public AActor
 {
@@ -22,5 +24,9 @@ protected:
 public:	
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
+	FTimerHandle Temporizador;
 
+	void spawnplanta();
+
+	TArray<APlant*> vectorPlants;
 };

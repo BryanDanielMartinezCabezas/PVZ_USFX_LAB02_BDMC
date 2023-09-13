@@ -26,4 +26,13 @@ public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
+	FTimerHandle temporizadordisparo;
+	void disparo(FVector direccion);
+
+	UPROPERTY(VisibleAnywhere)
+	int energia;
+
+
+	//void EliminarZombie(class APVZ_USFX_LAB02GameModeBase* GameModeBasePVZ);
+
 };
