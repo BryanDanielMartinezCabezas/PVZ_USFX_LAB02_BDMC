@@ -10,6 +10,7 @@
 #include "Engine/Engine.h"
 #include "Jugador.h"
 
+
 APVZ_USFX_LAB02_BDMCGameMode::APVZ_USFX_LAB02_BDMCGameMode()
 {
 	// set default pawn class to our character class
@@ -26,7 +27,7 @@ void APVZ_USFX_LAB02_BDMCGameMode::BeginPlay()
 	// Definición de un objeto de tipo World
 	UWorld* const World = GetWorld();
 
-	//ASpawns* Spawn1 = GetWorld()->SpawnActor<ASpawns>(ASpawns::StaticClass(), FVector(0,0,0), FRotator::ZeroRotator);
+	ASpawns* Spawn1 = GetWorld()->SpawnActor<ASpawns>(ASpawns::StaticClass(), FVector(0, 0, 0), FRotator::ZeroRotator);
 	// 
 	//AZombie* Zombie1 = GetWorld()->SpawnActor<AZombie>(AZombie::StaticClass(), FVector(400.0, 200.0, 100.0), FRotator::ZeroRotator);
 
@@ -53,7 +54,7 @@ void APVZ_USFX_LAB02_BDMCGameMode::BeginPlay()
 		NuevoZombie->Velocidad = FMath::FRandRange(0.1, 0.5);
 
 		Zombies.Add(NuevoZombie);
-}
+	}
 	//Definiendo la posición de las plantas
 	FVector SpawnLocationPlant = FVector(-800.0f, -600.0f, 160.0f);
 	FVector SpawnLocationPlantTemp = SpawnLocationPlant;

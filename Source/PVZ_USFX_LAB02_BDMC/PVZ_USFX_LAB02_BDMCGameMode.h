@@ -6,9 +6,9 @@
 #include "GameFramework/GameModeBase.h"
 #include "PVZ_USFX_LAB02_BDMCGameMode.generated.h"
 
+
 class AZombie;
 class APlant;
-
 UCLASS(MinimalAPI)
 class APVZ_USFX_LAB02_BDMCGameMode : public AGameModeBase
 {
@@ -17,6 +17,7 @@ class APVZ_USFX_LAB02_BDMCGameMode : public AGameModeBase
 public:
 	APVZ_USFX_LAB02_BDMCGameMode();
 protected:
+	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
 
 public:
@@ -48,7 +49,6 @@ public:
 	void aumentovelocidad();
 
 	AZombie* NuevoZombie;
-
 };
 
 
